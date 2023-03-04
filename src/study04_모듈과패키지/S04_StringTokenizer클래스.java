@@ -5,7 +5,6 @@ import java.util.StringTokenizer;
 public class S04_StringTokenizer클래스 {
 
     public static void main(String[] args) {
-
         // 하나의 문자열을 여러 개의 문자열로 분리, 구분 문자로 분리된 문자열을 토큰이라고 한다
         // StringTokenizer(String str) : str 스트링의 각 문자를 구분 문자로 문자열을 분리하는 스트링 토크나이저 생성
         // StringTokenizer(String str, String delim) : str 스트링과 delim 구분 문자로 문자열을 분리하는 스트링 토크나이저 생성
